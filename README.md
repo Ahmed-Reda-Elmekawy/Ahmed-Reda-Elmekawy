@@ -94,9 +94,6 @@ Built responsive web modules, component libraries, and backend API endpoints.
 
 <div align="center">
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Reda-Elmekawy&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Reda-Elmekawy&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Reda-Elmekawy&theme=tokyonight&hide_border=true)
 
 </div>
