@@ -73,16 +73,16 @@ I'm an experienced **Odoo developer** and technical instructor, currently engine
 
 ## Experience
 
-**Software Engineer & Odoo Developer** · Samtia *(Remote, Saudi Arabia)* — 2018 – Present
+**Software Engineer & Odoo Developer** · Samtia *(Remote, Saudi Arabia)* — 2026 – Present
 Architecting enterprise Odoo ERP solutions and automated business workflows for Saudi enterprise clients.
 
-**Software Engineer – Odoo Developer** · Laplace Software *(Remote)* — Aug 2026 – Present
+**Software Engineer – Odoo Developer** · Laplace Software *(Remote)* — Jun 2024 – Present
 Engineered Access Management, Biometric Time Attendance, Visitor Management, and Secretary automation modules.
 
-**Freelance Software Engineer** · Direct Clients — Jul 2024 – Aug 2026
+**Freelance Software Engineer** · Direct Clients — Jul 2024 – Present
 Delivered custom web apps, database architectures, and business workflows in Python, Django, and Odoo.
 
-**Technical Instructor** · DotPy, Digital Egypt Pioneers Initiative (DEPI – MCIT) — Jul 2023 – Aug 2026
+**Technical Instructor** · DotPy, Digital Egypt Pioneers Initiative (DEPI – MCIT) — Jul 2024– Aug 2025
 Instructor for the Front-End Developer track; mentored cohorts in React, JavaScript, HTML5/CSS3, and Git.
 
 **Full-Stack Developer** · AD-Foundation *(Remote, Saudi Arabia)* — Jun 2024 – Sep 2024
